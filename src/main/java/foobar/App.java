@@ -2,6 +2,7 @@ package foobar;
 
 /**
  * Hello world!
+ 
  *
  */
 public class App 
